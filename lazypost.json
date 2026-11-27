@@ -1,0 +1,22 @@
+{
+    "version": "0.1.3",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/mc-akash/lazypost/releases/download/v0.1.3/lazypost_0.1.3_windows_amd64.zip",
+            "bin": [
+                "lazypost.exe"
+            ],
+            "hash": "8d608ca5c6d7e254187e9e9038e7990af6580c9f4151228286879b4f84d315d7"
+        },
+        "arm64": {
+            "url": "https://github.com/mc-akash/lazypost/releases/download/v0.1.3/lazypost_0.1.3_windows_arm64.zip",
+            "bin": [
+                "lazypost.exe"
+            ],
+            "hash": "92e1610f75204ac620394f320e0bb7deeaab293dfe04cc80dee7c535ecb268f1"
+        }
+    },
+    "homepage": "https://github.com/mc-akash/lazypost",
+    "license": "MIT",
+    "description": "Lazygit-style terminal HTTP client"
+}
